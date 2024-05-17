@@ -5,13 +5,13 @@
   --ff-accent: 'Press Start 2P', monospace;
   --fw-main: 400;
   --fw-accent: 700;
-  --color-bg: #fff;
-  --color-accent: #000;
+  --color-bg: #FFFFFF;
+  --color-accent: #000000;
   --color-bg-grad: #D3D3D3;
   --color-bg-grad-start: #E7E7E7;
   --color-bg-grad-end: #1A1A1A;
-  --color-contour: #000;
+  --color-contour: #000000;
   --color-sparks: red;
-  --color-button: #fff;
+  --color-button: #FFFFFF;
   --content-width: clamp(23.4375rem, 4.2939rem + 81.6794vw, 43.5rem);
 } 
