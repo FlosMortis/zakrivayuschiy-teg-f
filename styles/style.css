@@ -364,6 +364,7 @@ dialog[open] {
 }
 
 .dialog__button-text {
+  text-transform: uppercase;
   position: relative;
   z-index: 2;
   color: var(--color-button);
